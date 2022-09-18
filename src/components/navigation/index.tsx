@@ -23,7 +23,7 @@ const links = [
   },
   {
     label: `Pricing`,
-    href: `/`,
+    href: `/pricing`,
   },
   {
     label: `Blog`,
